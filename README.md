@@ -1,6 +1,6 @@
 # Unscramble Metabolomics with R
 
-**This script has been redacted specifically for association of phenotypes to metabolites.**
+**This script has been redacted specifically for association of phenotypes to metabolites using PLS-DA regression.**
 
 Other uses should be plausible.
 
