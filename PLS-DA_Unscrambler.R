@@ -37,6 +37,8 @@ rm(list=ls())
   library("tidyselect")
 }
 
+#Seed
+set.seed(101)
 
 #Set working directory 
 InputFolder="Folders/Input"
